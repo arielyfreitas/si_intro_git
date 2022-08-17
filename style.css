@@ -4,3 +4,8 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+div#container{
+    color: blue;
+    text-align: center;
+}
